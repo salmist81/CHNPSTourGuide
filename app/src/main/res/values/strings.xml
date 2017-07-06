@@ -1,0 +1,135 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=20] -->
+    <string name="app_name">CHNPS Tour Guide</string>
+
+    <!-- Category name for services [CHAR LIMIT=20] -->
+    <string name="category_services">Services</string>
+
+    <!-- Category name for the rooms [CHAR LIMIT=20] -->
+    <string name="category_rooms">Rooms</string>
+
+    <!-- Category name for the facilities [CHAR LIMIT=20] -->
+    <string name="category_facilities">Facilities</string>
+
+    <!-- Category name for the activities [CHAR LIMIT=20] -->
+    <string name="category_activities">Activities</string>
+
+    <string name="image">Image</string>
+
+    <string name="title">Title</string>
+
+    <string name="description">Title Description</string>
+
+    <!-- Header for a Services detail activity -->
+    <string name="daycare">Day Care Nursery</string>
+    <string name="daycare_note">Up to 11 hours of care for babies, toddlers and preschool</string>
+    <string name="breakfast">Breakfast Club</string>
+    <string name="breakfast_note">Breakfast served before drop off to schools</string>
+    <string name="afterschool">After School Club</string>
+    <string name="afterschool_note">We offer pick-ups for your child(ren)</string>
+    <string name="teatime">Tea Time</string>
+    <string name="teatime_note">Provision for balance meal after pick up</string>
+    <string name="holiday">Holiday Club</string>
+    <string name="holiday_note">No boring moments during school holidays</string>
+    <string name="special">Special Need Children</string>
+    <string name="special_note">Qualified SENCO practioners</string>
+
+    <!-- Header for a Rooms detail activity -->
+    <string name="baby">Baby Zone</string>
+    <string name="baby_note">Two spacious rooms for 0-2 years old</string>
+    <string name="toddler">Toddler Zone</string>
+    <string name="toddler_note">Two spacious rooms just for age 2-3 years</string>
+    <string name="preschool">Pre-School</string>
+    <string name="preschool_note">Large classrooms for 3-5 years old</string>
+    <string name="under8">Under 8s</string>
+    <string name="under8_note">Large hall with adequate adult to child ratio</string>
+    <string name="over8">Over 8s</string>
+    <string name="over8_note">Spacious and equipped hall with adequate adult-child ratio </string>
+
+    <!-- Header for a Facilities detail activity -->
+    <string name="library">Library</string>
+    <string name="libray_note">Lots of interesting and educative materials</string>
+    <string name="music_studio">Music Studio</string>
+    <string name="music_studio_note">Fully equipped with state of the art equipment</string>
+    <string name="sensory">Sensory Room</string>
+    <string name="sensory_note">Helping your baby develop mentally</string>
+    <string name="hall">Multi-Function Hall</string>
+    <string name="hall_note">Various rooms for diverse functions</string>
+    <string name="playarea">Play Area</string>
+    <string name="playarea_note">Safe play area with secure back access to Chadwell Heath park </string>
+    <string name="parking">Parking Space</string>
+    <string name="parking_note">Free parking for drop off and pick up</string>
+    <string name="reception">Reception Area</string>
+    <string name="reception_note">Secure reception area for visitors</string>
+    <string name="toilet">Toilet</string>
+    <string name="toilet_note">Hygienic toilet facility accessible to disabled visitors and parent</string>
+    <string name="kitchen">Kitchen</string>
+    <string name="kitchen_note">4 Star rating hygienic kitchen</string>
+
+    <!-- Header for a Activities detail activity -->
+    <string name="art">Art &amp; Craft</string>
+    <string name="art_note">We also learn through play</string>
+    <string name="fungame">Fun Games</string>
+    <string name="fungame_note">Games from word puzzle. pin pong to video games</string>
+    <string name="excursion">Excursion</string>
+    <string name="excursion_note">We visit interesting places</string>
+    <string name="outdoor">Outdoor</string>
+    <string name="outdoor_note">Outdoor activities for our physical well being</string>
+    <string name="music">Music</string>
+    <string name="music_note">We create our music, our style!</string>
+    <string name="tixileex">Tixileex</string>
+    <string name="tixileex_note">Mother and child bonding in play groups</string>
+
+    <!-- Detail description for Services -->
+    <string name="daycare_description">Up to 11 hours of day care for babies, toddlers and preschool with flexible attendance with
+        following options:
+    \n. Full or Half Day Sessions
+    \n. Three hours per day, funded hours over 5 days (am or pm)
+    \n. Five hours per day, funded hours over 3 days
+    \n. Half a day sessions available
+    \n. 15 HOURS FREE Childcare for your two year old
+    \n. 15 HOURS FREE Childcare for your three or four year old
+    \n. 30 HOURS FREE Childcare for your three or four year old (subject to eligibility)
+    \n. Opened Mon - Fri, 7:30am - 6:30pm
+    \n. Ofsted Registered</string>
+
+
+    <!-- Detail description for Rooms -->
+    <string name="baby_description">We are Ofsted registered and approved full day care facility for up to sixty(60) children ranging from three months to five years
+        and with two dedicated spacious baby rooms fully furnished with capacity to accommodate twenty (20)children from three months to a year old </string>
+    <string name="toddler_description">Places are available for 2-3 years old government funding up to 30 hours of child care. We boast two spacious rooms fully furnished
+    with capacity for expansion.</string>
+    <string name="preschool_description">Large classrooms for prechool children age 3-5 years with qualified practioners with years of experience</string>
+
+
+
+    <!-- Detail description for Facilities -->
+    <string name="library_description">Our Library is stocked with a variety of educative materials for a ages.
+        We start early by taken even our babies to the library as way to help them imbibe the culture and habit of reading.
+        Children are also encouraged to come along with their own books to read in our library</string>
+    <string name="music_studio_description">Fully equipped Music studio with state of the art equipment and music instructors with years of
+    experience in all forms of music.</string>
+    <string name="sensory_description">We believe in the total development of children. Hence our sensory room is specially designed with special lighting, music and objects
+      to develop our children\'s senses.</string>
+    <string name="hall_description">We have a multi-function hall with a sitting capacity of over two hundred adults. This hall has hosted
+    our graduation ceremonies, parent open days and other events.</string>
+    <string name="playarea_description">Spacious play areas with synthetic grass for babies and toddlers. We have the soft area for preschool and older children. Our play areas
+    are safe and secured with CCTV installed </string>
+    <string name="parking_description">Free parking is available for drop off and pick up of your child(ren)</string>
+    <string name="reception_description">Secure reception are for visitors and parents  before access to entrance of nursery for safety and security of our children</string>
+    <string name="toilet_description">Hygienic toilet facility accessible to disabled visitors and parents</string>
+    <string name="kitchen_description">The well being of every child in our setting is paramount to us, therefore, we owe it to ensure our kitchen meets the highest hygien standards.
+    We have a 4-Star rating and we will strive to make it a 5 star rating</string>
+
+
+    <string name="title_var">serviceTitle</string>
+
+    <string name="note_var">serviceNote</string>
+
+    <string name="description_var">serviceDescription</string>
+
+    <string name="image_var">serviceImage</string>
+
+
+
+</resources>

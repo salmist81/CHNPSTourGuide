@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#263238</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#000a12</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#e0e0e0</color>
+
+    <!-- Background color for the services category -->
+    <color name="category_services">#1976d2</color>
+
+    <!-- Background color for the rooms category -->
+    <color name="category_rooms">#379237</color>
+
+    <!-- Background color for the facilities category -->
+    <color name="category_facilities">#fbc02d</color>
+
+    <!-- Background color for the activities category -->
+    <color name="category_activities">#d32f2f</color>
+</resources>

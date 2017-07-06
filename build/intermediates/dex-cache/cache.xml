@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\McSkin\.android\build-cache\d54c542429f2a8cbf29c6ae34a983c3f74d42545\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79f19378238843ef71b41ae0976dee4934f5b37e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\McSkin\.android\build-cache\b94a70d766da9fbc046d69271363c058a663dadc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ff986298c6aa1d47e8451b55fcee12319efa73e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\McSkin\.android\build-cache\ef281e30b485b509091863dd2fb5bfc1206908ae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d424a5d872b2d4f41f7e396b8cafda16146f97af\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\McSkin\.android\build-cache\f3a8a8d079a21d94ec4af8085f39f6fa949b3f02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\pre-dexed\debug\classes_9aed66fda4eff0e5782704efca90c93de42cea4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\McSkin\.android\build-cache\d54c542429f2a8cbf29c6ae34a983c3f74d42545\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\pre-dexed\debug\classes_79f19378238843ef71b41ae0976dee4934f5b37e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_658de3c8bcd1d82a8bcd5373b75a2b67ebc4b7dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\McSkin\.android\build-cache\b8adfa0034ba4cb85ecb8005435d049a32b5da1f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_399f880a085737cc694b6a8c593a798b2e98880c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\McSkin\.android\build-cache\3713d366b670db095c989616d8304016bbc24c2f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\pre-dexed\debug\classes_84d620d42534336b72712825cbb9046d14d415c9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\McSkin\.android\build-cache\a7ba896e132bc3b3c8a79075d203b628fd982674\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f79419c3ba796e00c4e703dd9c451190a053dcf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\McSkin\.android\build-cache\a7ba896e132bc3b3c8a79075d203b628fd982674\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\pre-dexed\debug\classes_f79419c3ba796e00c4e703dd9c451190a053dcf9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\McSkin\.android\build-cache\1ff3620fd0eab04cc17649902e5f2189412c2dce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7eb1a936e76ed4aa208c435f62223c7c70f81e6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\McSkin\.android\build-cache\3713d366b670db095c989616d8304016bbc24c2f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84d620d42534336b72712825cbb9046d14d415c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\McSkin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_9232967bc1898125b1f878868397c1e3591e7b6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\McSkin\.android\build-cache\f288ab30133785238ec6eb804a2e4f8365560809\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fca0f1438ded2f008267f5cf6afc858e20914005\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\McSkin\.android\build-cache\35ab6d6fd5a8fb749766464dd601c5011c3423a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\pre-dexed\debug\classes_f30cbd25c1313ff7bce49ab05fcc777d93337e29.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74a14fa58b67fbf52feda02eed052dfddcf525af">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b28ff5556ab26b6a07656cf4694fa4e73e63f02d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\McSkin\.android\build-cache\ddbc448a711dc8f7312e8d111ca86a5904ffc936\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b736241ad13eab8214b007b8f1115895e38085c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\McSkin\.android\build-cache\35ab6d6fd5a8fb749766464dd601c5011c3423a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f30cbd25c1313ff7bce49ab05fcc777d93337e29\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\McSkin\.android\build-cache\b8adfa0034ba4cb85ecb8005435d049a32b5da1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\pre-dexed\debug\classes_399f880a085737cc694b6a8c593a798b2e98880c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\McSkin\.android\build-cache\f3a8a8d079a21d94ec4af8085f39f6fa949b3f02\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9aed66fda4eff0e5782704efca90c93de42cea4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\McSkin\.android\build-cache\8a23bbc9471ad1131f574d452e46c889ea9c0f66\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\McSkin\AndroidStudioProjects\CHNPSTourGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7337cb28cb6fbd6ae88d70b0e3eff2017422e6c\classes.dex" />
+    </item>
+
+</items>
